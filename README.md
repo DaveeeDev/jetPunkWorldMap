@@ -14,6 +14,7 @@ Breite | Höhe   | Name
 239    | 200    | Anguilla
 405    | 487    | Antarktis
 223    | 220    | Aruba
+WIP
 474    | 117    | Bermuda
 474    | 117    | Bouvetinsel
 474    | 117    | Britische Jungferninseln
